@@ -51,14 +51,6 @@ For more information on installing Node.js and npm, visit [Node.js](https://node
 ## Screenshots
 ![Screenshot 2023-11-14 132825](https://github.com/sreyounpann/HappyAnniversaryFlower/assets/83297826/6391701d-7f5c-4671-bde0-05726ca08085)
 
-  ![Screenshot 2023-11-14 132856](https://github.com/sreyounpann/HappyAnniversaryFlower/assets/83297826/8c052831-cf84-49e1-8c03-86f758389c07)
+![Screenshot 2023-11-14 132856](https://github.com/sreyounpann/HappyAnniversaryFlower/assets/83297826/8c052831-cf84-49e1-8c03-86f758389c07)
 
-
-## Questions and Support
-If you have any questions or encounter issues, feel free to reach out to me on Instagram [yeowdoingood](https://www.instagram.com/yeowdoingood/).
-    Feel free to copy and paste this into your [README file](README.md)!
-
-
-
-   
 # HappyAnniversaryFlower
